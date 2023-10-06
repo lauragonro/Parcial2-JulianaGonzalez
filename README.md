@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Laura Juliana Gonzalez Ronseria
 
-Codigo :
+Codigo : 0000203290
 
 **Descripción del Problema:**
 
